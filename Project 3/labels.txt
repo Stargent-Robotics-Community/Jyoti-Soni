@@ -1,0 +1,12 @@
+0 Mountain Pose
+1 Warrior Pose
+2 Triangle Pose
+3 Bridge Pose
+4 Corpse
+5 Seated Forward Fold Pose
+6 Plank Pose
+7 Dolphine Pose
+8 Bow Pose
+9 Boat Pose
+10 Side Plank
+11 Head Stand Pose
